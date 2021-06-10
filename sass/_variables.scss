@@ -1,0 +1,58 @@
+@mixin crojo {
+    color: #fa163f;
+}
+@mixin bgrojo {
+    background: #fa163f;
+}
+@mixin bgblanco {
+    background: #f0ece2;
+}
+@mixin cblanco {
+    color: #f0ece2;
+}
+@mixin cnegro {
+    color: #292929;
+}
+@mixin bgnegro {
+    background: #292929;
+}
+
+@mixin tipo {
+    font-family:Advent Pro;
+}
+
+@mixin linea {
+    border-style: solid;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+}
+
+@mixin tarjeta {
+    position: absolute;
+    margin-top: 7em;
+    width: 70%;
+    height: 300px;
+    @include bgblanco;
+    z-index: 50;
+    display: flex;
+    left: -1000vh;
+    transition: 1s;
+   border:1px solid black;
+}
+
+@mixin blanco {
+    @include bgblanco;
+    padding: 2px;
+    padding-bottom: 28px;
+    position: absolute;
+    display: flex;
+    align-self: center;
+    transition: 1s;
+    z-index: 0;
+}
+
+@mixin trobot {
+    width: 245px;
+    height: 135px;
+}

@@ -1,0 +1,127 @@
+.bgblue {
+  background: #007bff; }
+
+.bgindigo {
+  background: #6610f2; }
+
+.bgpurple {
+  background: #6f42c1; }
+
+.bgpink {
+  background: #e83e8c; }
+
+.bgred {
+  background: #dc3545; }
+
+.bgorange {
+  background: #fd7e14; }
+
+.bgyellow {
+  background: #ffc107; }
+
+.bggreen {
+  background: #28a745; }
+
+.bgteal {
+  background: #20c997; }
+
+.bgcyan {
+  background: #17a2b8; }
+
+.bgwhite {
+  background: #fff; }
+
+.bggray {
+  background: #6c757d; }
+
+.bggray-dark {
+  background: #343a40; }
+
+.bgprimary {
+  background: #007bff; }
+
+.bgsecondary {
+  background: #6c757d; }
+
+.bgsuccess {
+  background: #28a745; }
+
+.bginfo {
+  background: #17a2b8; }
+
+.bgwarning {
+  background: #ffc107; }
+
+.bgdanger {
+  background: #dc3545; }
+
+.bglight {
+  background: #f8f9fa; }
+
+.bgdark {
+  background: #343a40; }
+
+.cblue {
+  color: #007bff; }
+
+.cindigo {
+  color: #6610f2; }
+
+.cpurple {
+  color: #6f42c1; }
+
+.cpink {
+  color: #e83e8c; }
+
+.cred {
+  color: #dc3545; }
+
+.corange {
+  color: #fd7e14; }
+
+.cyellow {
+  color: #ffc107; }
+
+.cgreen {
+  color: #28a745; }
+
+.cteal {
+  color: #20c997; }
+
+.ccyan {
+  color: #17a2b8; }
+
+.cwhite {
+  color: #fff; }
+
+.cgray {
+  color: #6c757d; }
+
+.cgray-dark {
+  color: #343a40; }
+
+.cprimary {
+  color: #007bff; }
+
+.csecondary {
+  color: #6c757d; }
+
+.csuccess {
+  color: #28a745; }
+
+.cinfo {
+  color: #17a2b8; }
+
+.cwarning {
+  color: #ffc107; }
+
+.cdanger {
+  color: #dc3545; }
+
+.clight {
+  color: #f8f9fa; }
+
+.cdark {
+  color: #343a40; }
+
+/*# sourceMappingURL=colores.css.map */
